@@ -1,2 +1,2 @@
 # responsive-websites
-Two responsive websites using different techniques.
+Two responsive websites using different techniques. Exercises for uni courses.
